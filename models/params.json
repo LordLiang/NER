@@ -1,0 +1,13 @@
+{
+    "char_embedding_dim": 23,
+    "char_lstm_size": 23,
+    "char_vocab_size": 89,
+    "dropout": 0.5,
+    "fc_dim": 100,
+    "num_labels": 8,
+    "use_char": true,
+    "use_crf": true,
+    "word_embedding_dim": 100,
+    "word_lstm_size": 100,
+    "word_vocab_size": 10947
+}
